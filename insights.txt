@@ -1,0 +1,13 @@
+Top Products:
+Product
+Macbook Pro Laptop            8037600.00
+iPhone                        4794300.00
+ThinkPad Laptop               4129958.70
+Google Phone                  3319200.00
+27in 4K Gaming Monitor        2435097.56
+34in Ultrawide Monitor        2355558.01
+Apple Airpods Headphones      2349150.00
+Flatscreen TV                 1445700.00
+Bose SoundSport Headphones    1345565.43
+27in FHD Monitor              1132424.50
+Name: Sales, dtype: float64
